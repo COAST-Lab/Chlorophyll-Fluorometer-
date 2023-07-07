@@ -1,0 +1,88 @@
+# /*
+#  * Project led_blink_aw_code
+#  * Description: this code graphs the light data when the LED is off
+#  * Author: Jessie Wynne
+#  * Date: 07/06/2023
+#  */
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.linear_model import LinearRegression
+
+file_path = "/Users/jessiewynne/led_test_255_intesnity_number_2.csv"
+
+# Skip the rows with duplicate headers while reading the CSV file
+df = pd.read_csv(file_path, encoding='utf-8', skiprows=[1])
+
+# Filter data where LED is on
+df_led_off = df[df['LED Status'] == 'LED OFF']
+
+# Access the 'seconds' and 'lux' columns
+seconds_values = df_led_off['seconds']
+# lux_values = df_led_off['Lux']
+visible_values = df_led_off['Lux']
+
+# lux_values = pd.to_numeric(lux_values, errors='coerce').dropna()
+visible_values = pd.to_numeric(lux_values, errors='coerce').dropna()
+
+
+
+# Generate x-axis values using the 'seconds' column
+x_axis = pd.to_numeric(seconds_values, errors='coerce').dropna()
+
+# Perform linear regression
+regressor = LinearRegression()
+# regressor.fit(x_axis.values.reshape(-1, 1), lux_values)
+regressor.fit(x_axis.values.reshape(-1, 1), visible_values)
+
+# Calculate line of best fit
+line_of_best_fit = regressor.predict(x_axis.values.reshape(-1, 1))
+
+# Get the slope of the line
+slope = regressor.coef_[0]
+
+# Calculate error range as a measure of variation
+# lux_mean = np.mean(lux_values)
+# lux_std = np.std(lux_values)
+# error_range = 2 * lux_std  # Assuming 2 standard deviations for the error range
+
+visible_mean = np.mean(visible_values)
+visible_std = np.std(visible_values)
+error_range = 2 * visible_std  # Assuming 2 standard deviations for the error range
+
+# Calculate standard deviation as a measure of variation
+# lux_std = lux_values.std()
+
+visible_std = lux_values.std()
+
+# # Plot the 'lux' values over time
+# plt.plot(x_axis, lux_values, marker='o', linestyle='', label='Lux Values')
+
+# # Plot the line of best fit
+# plt.plot(x_axis, line_of_best_fit, color='red', linestyle='--', label='Line of Best Fit')
+
+# # Plot the shaded region representing the standard deviation
+# plt.fill_between(x_axis, line_of_best_fit - lux_std, line_of_best_fit + lux_std, color='gray', alpha=0.3, label='Lux Variation')
+
+# Plot the 'lux' values over time
+# plt.plot(x_axis, lux_values)
+plt.plot(x_axis, visible_values)
+plt.xlabel('Time (Seconds)')
+# plt.ylabel('Lux')
+plt.ylabel('Visible')
+plt.title('LED 2 minute test, LED OFF, 255 intensity')
+
+# Set y-axis tick labels every 500
+plt.yticks(range(0, 101, 20))
+
+# Set x-axis tick labels every 100
+plt.xticks(range(0, int(max(x_axis)), 100))
+
+# Set y-axis limit to 7000
+plt.ylim(0, 100)
+
+plt.text(0.6, 0.9, f"Error Range: ±{error_range:.2f}", transform=plt.gca().transAxes)
+
+
+plt.show()
