@@ -1,0 +1,44 @@
+#  * Project graph_chla_results
+#  * Description: graph chla sesnor readings from a .csv file
+#  * Author: Jessie Wynne
+#  * Date: 07/06/2023
+#  */
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+file_path = "/Users/jessiewynne/led_test_255_intesnity_number_2.csv"
+
+# Skip the rows with duplicate headers while reading the CSV file
+df = pd.read_csv(file_path, encoding='utf-8', skiprows=[1])
+
+# Access the 'seconds' and 'lux' columns
+seconds_values = df['seconds'][1:]
+lux_values = df['Lux'][1:]  # Exclude the header row
+# visible_values = df['Visible'][1:]  # Exclude the header row
+
+lux_values = pd.to_numeric(lux_values, errors='coerce').dropna()
+visible_values = pd.to_numeric(visible_values, errors='coerce').dropna()
+
+
+
+# Generate x-axis values using the 'seconds' column
+x_axis = pd.to_numeric(seconds_values, errors='coerce').dropna()
+
+# Plot the 'lux' values over time
+plt.plot(x_axis, lux_values)
+# plt.plot(x_axis, visible_values)
+plt.xlabel('Timne (Seconds)')
+plt.ylabel('Lux')
+# plt.ylabel('Visible')
+plt.title('LED 2 minute test, 255 intensity')
+
+# Set y-axis tick labels every 500
+plt.yticks(range(0, int(max(lux_values)), 500))
+# plt.yticks(range(0, int(max(visible_values)), 7000))
+
+
+# Set x-axis tick labels every 100
+plt.xticks(range(0, int(max(x_axis)), 100))
+
+plt.show()
