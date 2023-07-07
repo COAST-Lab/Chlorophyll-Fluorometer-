@@ -1,0 +1,3 @@
+This folder contains information on the LED Tests performed with the chrlorophyll fluorometer prototype. 
+These tests measure the Lux and visible values obtained from the tsl2591 light sensor when the LED light is shown directly onto it and when it is turned off.
+An aw9523 is used to supply a constant current to the LED light 
