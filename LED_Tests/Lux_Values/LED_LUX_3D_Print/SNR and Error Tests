@@ -1,0 +1,20 @@
+LED 4 minute test (lux values)
+SNR= 67.9263/0.4549 = 149.3219
+LED ON Error: +/- 0.95
+LED OFF Error: +/- 0.21 
+
+
+LED 2 minute test (lux values)
+SNR= 66.6398/0.4649 = 143.3422
+LED ON Error: +/- 0.84
+LED OFF Error: +/- 0.15
+
+LED 1 minute test (lux values)
+SNR= 66.7316/0.3299= 202.2783
+LED ON Error: +/- 1.22
+LED OFF Error: +/- 0.15
+
+LED 30 second test (lux values)
+SNR= 64.7344/0.3319 = 195.0419
+LED ON Error: +/- 0.78
+LED OFF Error: +/- 0.15
