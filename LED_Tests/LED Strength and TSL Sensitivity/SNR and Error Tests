@@ -1,9 +1,19 @@
+TSL Gain LOW and 100 Intensity 
+LED ON Error: +/- 0.33
+LED OFF Error: +/- 0.16
+SNR: 47.7229/0.6225 = 76.6632
+
 TSL Gain MED and 100 Intensity 
 LED ON Error: +/- 0.25
 LED OFF Error: +/- 0.13
 SNR: 48.5920/0.6859 = 70.8441
 
-TSL Gain LOW and 100 Intensity 
-LED ON Error: +/- 0.33
-LED OFF Error: +/- 0.16
-SNR: 47.7229/0.6225 = 76.6632
+TSL Gain HIGH and 100 Intensity
+LED ON Error: +/- 0.55
+LED OFF Error: +/- 0.22
+SNR: 65.6166/0.56.87 = 115.3800
+
+TSL Gain MAX and 100 Intensity 
+LED ON: Error: +/- 0.50
+LED OFF Error: +/- 0.17
+SNR: 47.2976/0.6178 = 76.5581
