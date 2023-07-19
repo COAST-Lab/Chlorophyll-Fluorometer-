@@ -1,0 +1,24 @@
+255 Intensity 
+LED ON Error: +/- 1.96
+LED OFF Error: +/- 0.11
+SNR: 118.5243/0.6740 = 175.8521
+
+200 Intensity
+LED ON Error: +/- 1.12
+LED OFF Error: +/- 0.19
+SNR: 97.8611/0.6305
+
+150 Intensity 
+LED ON Error: +/- 0.62
+LED OFf Error: +/- 0.19
+SNR: 77.1644/0.6339 = 121.7296
+
+100 Inensity 
+LED ON Error: +/- 0.30
+LED OFF Error: +/- 0.20
+SNR: 54.2353/0.6223 = 87.1670
+
+50 Intensity
+LED ON: Error: +/- 0.32
+LED OFF Error: +/- 0.21
+SNR: 28.8143/0.6310 = 45.6645
