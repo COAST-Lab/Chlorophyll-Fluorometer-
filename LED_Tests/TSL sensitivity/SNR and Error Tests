@@ -1,0 +1,19 @@
+TSL Gain MAX
+LED ON Error: +/- 1.92
+LED OFF Error: +/- 0.06
+SNR: 119.2547/0.6768 = 176.2038
+
+TSL Gain HIGH
+LED ON Error: +/- 1.96
+LED OFF Error: +/- 0.11
+SNR: 118.5243/0.6740 = 175.8521
+
+TSL Gain MED
+LED ON Error: +/- 1.75
+LED OFF Error: +/- 0.07
+SNR: 119.2031/0.6750 = 176.5927
+
+TSL Gain LOW
+LED ON: +/- 1.77
+LED OFF: +/- 0.06
+SNR: 119.4939/0.6747 = 177.1067
