@@ -1,1 +1,9 @@
 This Folder contains information about Optics Tests
+
+
+These tests were completed on a clear day. The sensor was placed inside of a cardboard box with the inside spray-painted black.
+A 1-inch hole was cut in the box. The TSL 2591 (light sensor) located inside the box was positioned towards the hole, 5 inches away from it. 
+
+For the posterboard optics tests: on a clear day a white posterboard was positioned at a 45-degree angle to the box and sensor readings were taken
+
+For the shadow optics tests: the same procedure was followed for the posterboard optics tests, except a shadow was over the posterboard when measurements were taken
