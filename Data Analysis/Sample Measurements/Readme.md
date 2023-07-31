@@ -14,7 +14,7 @@ that fits a cuvette. A cuvette is placed into the fluorometer with the water
 sample to begin testing. Design materials can be found at:
 https://github.com/COAST-Lab/Chlorophyll-Fluorometer-/tree/main/Firmware. 
 
-![Device%20diagram.jpg]
+![Device diagram](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/e1dbfbcf-1282-4f4f-b6a5-64d1a4bbdccc)
 
 ## Testing Procedure 
 
@@ -50,7 +50,8 @@ Insert an empty cuvette into the fluorometer housing. Cover the fluorometer with
 cardboard box to ensure it is in complete darkness. Modify the code to turn the LED OFF
 and run for 1 minute 
 
-![IMG_4870.jpg](attachment:IMG_4870.jpg)
+![IMG_4870](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/631908a3-fcbd-4e5a-ba5a-82cc02da3a98)
+
 
 
 ### Step 4
