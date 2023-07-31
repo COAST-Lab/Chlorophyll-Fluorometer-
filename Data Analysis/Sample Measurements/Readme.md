@@ -92,7 +92,8 @@ with an error bar with extends from the lowest value of the data set to
 the largest. 
 
 ## Lux Graphs 
-![Chlorophyll_Sample_Tests_LED_250_Gain_High_Lux](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/159d82c5-5b83-45fe-bc0a-8834e9ed4f95)
+
+![Chlorophyll_Sample_Tests_LED_250_Gain_High_Lux](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/4a7cc37a-fedc-479b-a4ac-9ac780fac6bd)
 
 ![Chlorophyll_Sample_Tests_LED_255_Gain_Max_Lux](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/84f70004-b088-42a7-a517-b019b4ec19a3)
 
