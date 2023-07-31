@@ -92,19 +92,19 @@ with an error bar with extends from the lowest value of the data set to
 the largest. 
 
 ## Lux Graphs 
+![Chlorophyll_Sample_Tests_LED_250_Gain_High_Lux](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/159d82c5-5b83-45fe-bc0a-8834e9ed4f95)
 
-![Chlorophyll_Sample_Tests_LED_250_Gain_High_Lux.png](attachment:Chlorophyll_Sample_Tests_LED_250_Gain_High_Lux.png)
+![Chlorophyll_Sample_Tests_LED_255_Gain_Max_Lux](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/84f70004-b088-42a7-a517-b019b4ec19a3)
 
-![Chlorophyll_Sample_Tests_LED_255_Gain_Max_Lux.png](attachment:Chlorophyll_Sample_Tests_LED_255_Gain_Max_Lux.png)
 
 ## Visible Graphs 
 
-![Chlorophyll_Sample_Tests_LED_250_Gain_High_Visible%20.png](attachment:Chlorophyll_Sample_Tests_LED_250_Gain_High_Visible%20.png)
+![Chlorophyll_Sample_Tests_LED_250_Gain_High_Visible ](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/d7686e21-c524-4046-9984-067f10f2fa0b)
 
-![Chlorophyll_Sample_Tests_LED_255_Gain_Max_Visible%20.png](attachment:Chlorophyll_Sample_Tests_LED_255_Gain_Max_Visible%20.png)
+![Chlorophyll_Sample_Tests_LED_255_Gain_Max_Visible ](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/2606f4a9-b12d-4285-80c7-236bbcc46252)
 
 ## Full Graphs 
+![Chlorophyll_Sample_Tests_LED_250_Gain_High_Full](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/e72b1fba-54ed-4a39-bd89-b31b2d3f94a9)
 
-![Chlorophyll_Sample_Tests_LED_250_Gain_High_Full.png](attachment:Chlorophyll_Sample_Tests_LED_250_Gain_High_Full.png)
 
-![Chlorophyll_Sample_Tests_LED_255_Gain_Max_Full.png](attachment:Chlorophyll_Sample_Tests_LED_255_Gain_Max_Full.png)
+![Chlorophyll_Sample_Tests_LED_255_Gain_Max_Full](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/1c4d4c50-cade-47bd-aa56-0de902508da5)
