@@ -14,8 +14,7 @@ that fits a cuvette. A cuvette is placed into the fluorometer with the water
 sample to begin testing. Design materials can be found at:
 https://github.com/COAST-Lab/Chlorophyll-Fluorometer-/tree/main/Firmware. 
 
-![Device%20diagram.jpg](attachment:Device%20diagram.jpg)
-
+![Device%20diagram.jpg]
 
 ## Testing Procedure 
 
