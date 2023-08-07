@@ -114,7 +114,7 @@ the largest.
 
 ## Visible Graph #321 Filter
 
-![chl_sample_filter_321_visible.png](chl_sample_filter_321_visible.png)
+![](chl_sample_filter_321_visible.png)
 
 ## Full Graph #18 Filter
 
