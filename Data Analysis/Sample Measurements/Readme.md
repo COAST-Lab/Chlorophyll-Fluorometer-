@@ -9,7 +9,8 @@ of the fluorometer's functionality for future testing.
 This fluorometer is a benchtop model with housing which positions the LED and 
 the TSL2592 at a 90-degree angle as well as will be an opaque design as to 
 eliminate any ambient light from impacting the measurements. The TSL 2591
-is fitted with a red filter. The top of the benchtop design contains a hole 
+is fitted with a red filter Rocsculux filter #19. This filter had a 56% transmission.
+The top of the benchtop design contains a hole 
 that fits a cuvette. A cuvette is placed into the fluorometer with the water
 sample to begin testing. Design materials can be found at:
 https://github.com/COAST-Lab/Chlorophyll-Fluorometer-/tree/main/Firmware. 
