@@ -24,7 +24,7 @@ being measured. Red filters with the wavelemngths between 690-740nm are usually 
 to acchomplish this. The filter used in this test, Rsoculox filters #18 and #321 have 
 wavelengths of approixmately 620-700nm and 660-700nm respectively. 
 
-![IMG_4910.jpg](IMG_4910.jpg)
+![](IMG_4910.jpg)
 
 ![IMG_4911.jpg](IMG_4911.jpg)
 
