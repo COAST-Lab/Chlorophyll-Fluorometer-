@@ -16,8 +16,7 @@ that fits a cuvette. To begin testing, a cuvette is placed into the fluorometer 
 sample. Design materials can be found at:
 https://github.com/COAST-Lab/Chlorophyll-Fluorometer-/tree/main/Firmware. 
 
-(Device%20diagram.jpg)![IMG_4910](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/3fc8de88-f9ec-4222-a57b-2b1ab4abd558)
-
+![Device diagram](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/554d99b8-492b-47fd-ae99-6a4d6a99ab5d)
 
 ## Filters
 Filters fitted over the light sensor are used to commit the blue excitation light from
@@ -25,9 +24,8 @@ being measured. Red filters with wavelengths between 690-740nm are usually used
 to accomplish this. The filter used in this test, Rsoculox filters #18 and #321 have 
 wavelengths of approximately 620-700nm and 660-700nm respectively. 
 
-![IMG_4910.jpg](IMG_4910.jpg)
-
-![IMG_4911.jpg](IMG_4911.jpg)
+![IMG_4911](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/e6dd8524-6fb8-4f67-a9e4-7e0d3e390712)
+![IMG_4910](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/375621dd-f009-4b60-b892-446acf3e2451)
 
 ## Testing Procedure 
 
@@ -59,7 +57,7 @@ Insert an empty cuvette into the fluorometer housing. Cover the fluorometer with
 cardboard box to ensure it is in complete darkness. Modify the code to turn the LED OFF
 and run for 1 minute 
 
-![IMG_4870.jpg](IMG_4870.jpg)
+![IMG_4870](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/18f3646b-04e4-481c-b781-406d663bb5e0)
 
 ### Step 4
 Repeat step 3 with the LED ON 
@@ -103,27 +101,23 @@ the largest.
 
 ## Lux Graph #18 Filter
 
-![chl_sample_filter_18_lux.png](chl_sample_filter_18_lux.png)
+![chl_sample_filter_18_lux](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/fdeaa569-6012-46e6-b5d6-61c43986480f)
 
 ## Lux Graph #321 Filter
 
-![chl_sample_filter_321.png](chl_sample_filter_321.png)
+![chl_sample_filter_321](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/fab4484a-5f64-4384-b8a0-261faf894dd3)
 
 ## Visible Graph #18 Filter
-
-![chl_sample_filter_18_visible.png](chl_sample_filter_18_visible.png)
+![chl_sample_filter_18_visible](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/dda8abfe-e1cf-458e-bc43-a431d0d8213e)
 
 ## Visible Graph #321 Filter
-
-![chl_sample_filter_321_visible.png](chl_sample_filter_321_visible.png)
+![chl_sample_filter_321_visible](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/6a673d27-7fbe-468c-aae3-a249fd96f800)
 
 ## Full Graph #18 Filter
-
-![chl_sample_filter_18_full.png](chl_sample_filter_18_full.png)
+![chl_sample_filter_18_full](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/cfe74d3c-d1f1-450f-9665-91ffa5e3c4b3)
 
 ## Full Graph #321 Filter 
-
-![chl_sample_filter_321_full.png](chl_sample_filter_321_full.png)
+![chl_sample_filter_321_full](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/05c0c925-9923-477b-93a6-8bb5b9a86dfc)
 
 # Conclusion
 It seems that the greater the transmission of the filter, the higher the light measurements
