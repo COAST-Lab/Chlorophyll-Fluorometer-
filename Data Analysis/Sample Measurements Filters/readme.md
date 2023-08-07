@@ -16,7 +16,8 @@ that fits a cuvette. To begin testing, a cuvette is placed into the fluorometer 
 sample. Design materials can be found at:
 https://github.com/COAST-Lab/Chlorophyll-Fluorometer-/tree/main/Firmware. 
 
-![Device%20diagram.jpg](Device%20diagram.jpg)
+(Device%20diagram.jpg)![IMG_4910](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/3fc8de88-f9ec-4222-a57b-2b1ab4abd558)
+
 
 ## Filters
 Filters fitted over the light sensor are used to commit the blue excitation light from
