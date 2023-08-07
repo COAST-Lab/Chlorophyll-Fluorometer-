@@ -1,22 +1,22 @@
 # Decription
-This is the analysis of the chlorophyll fluorometer by taking measurements 
-of chlorophyll standards via rhodamine dye. This analysis is to test the use
-of filters with different transmissions to evaluate if higher transmissions lead 
+This is the analysis of the chlorophyll flurometer by taking measurements 
+of chlorophyll standars via rhodamine dye. This analysis is to test the use
+of filters with different transmissions to evaluate if higher transmissions leads 
 to less overlap in measurements. 
 
 # Fluormeter Testing
 
-## Fluormeter Design 
+## Fluormeter Desgin 
 This fluorometer is a benchtop model with housing which positions the LED and 
-the TSL2592 at a 90-degree angle as well as will be an opage design as to 
+the TSL2592 at a 90 degree angle as well as will be an opage design as to 
 eliminate any ambient light from impacting the measurements. The TSL 2591
 has been fitted with either a Rosculox #18 filter (56% transmission) or a Rosculox
-#321 filter (39% transmission). The top of the benchtop design contains a hole 
+#321 filter (39% transmisson). The top of the benchtop design contains a hole 
 which fits a cuvette. A cuvette is placed into the flurometer with the water
 sample to begin testing. Design materialsc an be found at:
 https://github.com/COAST-Lab/Chlorophyll-Fluorometer-/tree/main/Firmware. 
 
-(Device%20diagram.jpg)
+![Device%20diagram.jpg](Device%20diagram.jpg)
 
 ## Filters
 Filters fitted over the light sensor are used to ommit the blue excitation light from
