@@ -42,7 +42,7 @@ Stop readings and take the cuvette filled with DI water out of the flurometer. I
 Stop testing and take the SD card out of the fluorometer and plug it into the computer to begin analysis of the data collected.
 
 ## Step 8
-This test will be performed first with an LED intensity of 255 and a AS73411 gain of 512x and an ATIME of 59 and ASTEP of 599 and then repeated with a gain of 64x and then 4x. The data is recorded onto the SD card in the microcontroller. 
+This test will be performed first with an LED intensity of 255 and an AS73411 gain of 512x and an ATIME of 59 and ASTEP of 599 and then repeated with a gain of 64x and then 4x. The data is recorded onto the SD card in the microcontroller. 
 
 # Data Analysis
 
@@ -50,13 +50,18 @@ This test will be performed first with an LED intensity of 255 and a AS73411 gai
 When taking measurements the AS7341 light sensor collects light measurements of multiple wavelengths. The wavelength of 680nm (denoted as F8) will be analyzed.
 
 ## Graph characteristics
-Each graph shows the catagories of 'cuvette dark', 'cuvette light', 'DI Water Dark', 'DI Water Light' and '6.5 mg/L' on the x-axis to denote each test. And the numerical value of the F8 light measurement on the y-axis. The mean of each category will be plotted with an error bar with extends from the lowest value of the data set to the largest.
+Each graph shows the categories of 'cuvette dark', 'cuvette light', 'DI Water Dark', 'DI Water Light' and '6.5 mg/L' on the x-axis to denote each test. And the numerical value of the F8 light measurement on the y-axis. The mean of each category will be plotted with an error bar with extends from the lowest value of the data set to the largest.
 
 ## 512x Gain Graph
+![chl_sample_AS7341_512](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/5ef6a09b-06b7-40b0-b520-1858ef4e8a81)
+
 
 ## 64x Gain Graph
+![chl_sample_AS7431_64](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/3a260de4-d7a0-4e2f-b674-00354b1c5b0b)
+
 
 ## 4x Gain Graph
+![chl_sample_AS7341_4](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/94f66bf1-ed17-4604-a4e3-1bba75415f60)
 
 
 ```python
