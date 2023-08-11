@@ -53,14 +53,17 @@ When taking measurements the AS7341 light sensor collects light measurements of 
 Each graph shows the categories of 'cuvette dark', 'cuvette light', 'DI Water Dark', 'DI Water Light' and '6.5 mg/L' on the x-axis to denote each test. And the numerical value of the F8 light measurement on the y-axis. The mean of each category will be plotted with an error bar with extends from the lowest value of the data set to the largest.
 
 ## 512x Gain Graph
+
 ![chl_sample_AS7341_512](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/5ef6a09b-06b7-40b0-b520-1858ef4e8a81)
 
 
 ## 64x Gain Graph
+
 ![chl_sample_AS7431_64](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/3a260de4-d7a0-4e2f-b674-00354b1c5b0b)
 
 
 ## 4x Gain Graph
+
 ![chl_sample_AS7341_4](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/94f66bf1-ed17-4604-a4e3-1bba75415f60)
 
 
