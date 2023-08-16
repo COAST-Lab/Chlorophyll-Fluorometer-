@@ -1,7 +1,7 @@
 # /*
 #  * Project graph_chla_results
 #  * Description: graph chla sample readings from a .csv file, change the file name as needed as well as the title of the graph
-and which light measurement you wish to analyze. 
+# and which light measurement you wish to analyze. 
 #  * Author: Jessie Wynne
 #  * Date: 07/28/2023
 #  */
