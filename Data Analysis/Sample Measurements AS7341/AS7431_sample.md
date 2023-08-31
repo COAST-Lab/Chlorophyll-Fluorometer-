@@ -53,18 +53,15 @@ When taking measurements the AS7341 light sensor collects light measurements of 
 Each graph shows the categories of 'cuvette dark', 'cuvette light', 'DI Water Dark', 'DI Water Light' and '6.5 mg/L' on the x-axis to denote each test. And the numerical value of the F8 light measurement on the y-axis. The mean of each category will be plotted with an error bar with extends from the lowest value of the data set to the largest.
 
 ## 512x Gain Graph
-
-![chl_sample_AS7341_512](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/5ef6a09b-06b7-40b0-b520-1858ef4e8a81)
-
+![chl_sample_AS7341_512](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/612b46d5-fbc4-48bf-8eba-89da5e6a634c)
 
 ## 64x Gain Graph
-
-![chl_sample_AS7431_64](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/3a260de4-d7a0-4e2f-b674-00354b1c5b0b)
+![chl_sample_AS7431_64](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/913b4019-b02f-4efc-ba5a-e0bc9af533a7)
 
 
 ## 4x Gain Graph
+![chl_sample_AS7341_4](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/e6beb04a-7aa5-4b84-b20e-c08b8c70719a)
 
-![chl_sample_AS7341_4](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/94f66bf1-ed17-4604-a4e3-1bba75415f60)
 
 
 ```python
