@@ -49,11 +49,13 @@ Each graph shows the categories of '6.5 mg/L', '5.2 mg/L', '3.9 mg/L', '2.6 mg/L
 
 ## 512x Gain Graph
 
-![Dillutions_gain_512](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/c09a2a3d-d664-4e92-b7f5-607d3c19e98d)
+![Dilutions_gain_512](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/ad3256e5-da1b-48c7-9ab2-c130cf9a8ad9)
+
 
 ## 64x Gain Graph
 
-![Dillutions_gain_64](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/84f892dc-a129-4098-b200-fd9b9366fe56)
+![Dillutions_gain_64](https://github.com/jessiewynne/Chlorophyll-Fluorometer-/assets/106984291/3d8221da-bcca-4c6c-b9a5-e1c254eed0ac)
+
 
 
 
