@@ -25,7 +25,7 @@ which would be prepared. Calibration information:
 https://www.ysi.com/file%20library/documents/manuals/exo-user-manual-web.pdf
 
 ### Step 2
-A water sample was prepared with a chlorophyll concentration of 6.5mg/L and 
+A water sample was prepared with a chlorophyll concentration of 63.5 ug/L and 
 an RFU of 15.8 RFU. This water sample was prepared with rhodamine dye and DI water
 
 
@@ -87,7 +87,7 @@ of Visible, Full, IR, and Lux. Data analysis will be performed on Visible, Full
 
 #### Graph characteristics
 Each graph shows the catagories of 'cuvette dark', 'cuvette light', 'DI Water' 
-and '6.5 mg/L' on the x-axis to denote each test. And the numerical value of 
+and '63.5 ug/L' on the x-axis to denote each test. And the numerical value of 
 the light measurement on the y-axis. The mean of each category will be plotted
 with an error bar with extends from the lowest value of the data set to 
 the largest. 
