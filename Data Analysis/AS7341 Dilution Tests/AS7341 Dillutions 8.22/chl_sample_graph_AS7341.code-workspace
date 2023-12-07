@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "chl_sample_graph_AS7341",
+			"path": "../../chl_sample_graph_AS7341"
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+		"files.associations": {
+			"*.ino": "cpp"
+		}
+	}
+}
